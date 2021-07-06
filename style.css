@@ -1,0 +1,110 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+    margin: auto;
+}
+/*  heading section */
+.hedding{
+    background-color:whitesmoke;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.hedding-of-food{
+    font-size: 60px;
+}
+.part-of-hedding{
+    color: aqua;
+    margin-right: 30px;
+}
+.h1-tag-of-head{
+    color: gold;
+}
+/* food network */
+.food-network{
+    display: flex;
+    margin-bottom: 80px;
+}
+.food-network h1{
+    font-size: 30px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+    height: 300px;
+}
+.skip{
+    color: orange;
+    margin-right: 10px;
+}
+.anchor-button{
+    background-image: linear-gradient(red,orange,yellow);
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: large;
+}
+
+/* About me */
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding: 10px;
+    border-radius: 20px;
+}
+#para{
+    margin-bottom: 60px;
+}
+
+/* Reciepe section */
+.reciepe{
+   
+}
+.reciepe-div-1{
+    text-align: center;
+}
+.reciepe-div-1 h1{
+    color: tomato;
+}
+.reciepe-div-2{
+    display: flex;
+}
+.div-half-width{
+    width: 30%;
+    box-shadow: 10px 10px 20px gray;
+    margin-right: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.div-half-width img{
+    width: 80%;
+    height: 200px;
+    border-radius: 20px;
+}
+/* followers count section */
+.followers-count{
+    box-shadow: 10px 10px 30px gray;
+    margin-top: 50px;
+    padding: 20px;
+}
+.followers{
+    margin-right: 50px;
+    padding-left: 50px;
+}
+/* footer section */
+footer{
+    text-align: center;
+    background-color: gray;
+    color: blanchedalmond;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+#food{
+    color: coral;
+}
